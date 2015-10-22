@@ -1,4 +1,20 @@
-body {background-image: url(http://autoya.info/img/content_cache/12686/veyron_sport_wallpaper.jpg);}
+body {background-image: url(http://media.giphy.com/media/3oEdv7SwR8cR1rz4C4/giphy.gif);}
 	{background-size: cover;}
+}
+body{
+	font-family: 'Oswald', sans-serif;
+
+}
+section{
+	color: white;
+}
+
+h1 {
+	color: purple;
+	font-size: 100px;
+}
+
+p {
+	color: purple;
 
 }
